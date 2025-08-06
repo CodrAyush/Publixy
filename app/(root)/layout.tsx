@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BlogHub - Multi-tenant Blog Platform",
+  title: "Publixy - Multi-tenant Blog Platform",
   description: "Create and manage beautiful blogs for your organization. Share insights, stories, and knowledge with your team and the world.",
 };
 
