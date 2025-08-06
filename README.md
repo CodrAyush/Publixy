@@ -51,7 +51,7 @@ cp .env.example .env.local
 Fill in your environment variables:
 ```env
 # Database
-DATABASE_URL="postgresql://username:password@localhost:5432/bloghub"
+DATABASE_URL="postgresql://username:password@localhost:5432/Publixy"
 
 # Clerk
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
