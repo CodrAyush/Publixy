@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Publixy - Organization Blog",
-  description: "Read insights and stories from organizations on Publixy",
+  title: "Bloghub - Organization Blog",
+  description: "Read insights and stories from organizations on Bloghub",
 };
 
 export default function RootLayout({

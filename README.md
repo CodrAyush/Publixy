@@ -1,4 +1,4 @@
-# Publixy - Multi-tenant Blog Platform
+# Bloghub - Multi-tenant Blog Platform
 
 A modern, multi-tenant blog platform built with Next.js 15, Clerk authentication, and Drizzle ORM. Each organization gets its own dedicated blog space with custom subdomains.
 
@@ -51,7 +51,7 @@ cp .env.example .env.local
 Fill in your environment variables:
 ```env
 # Database
-DATABASE_URL="postgresql://username:password@localhost:5432/Publixy"
+DATABASE_URL="postgresql://username:password@localhost:5432/Bloghub"
 
 # Clerk
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
